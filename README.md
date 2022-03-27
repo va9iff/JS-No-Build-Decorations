@@ -1,5 +1,5 @@
 # No-Build-Decorations
----
+
 The core concept is to stack functions and call them as they are intended to.  
 It is very similar to `@` syntax, instead you call `.at` method.  
 Let's see some examples.
@@ -38,5 +38,3 @@ Decorator
 .at(italic)
 .do(myFun)
 ```
-
-A clean way to implement decorations in 25 lines of JavaScript.
